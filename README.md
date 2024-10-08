@@ -10,12 +10,12 @@
 | **章节** | **名称**                                                                                           | **简介**                                                                 |
 |----------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | 第一章   | [梦启晨曦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/01-第一章%3A梦启晨曦(Dreams%20of%20Dawn).md) | 如同清晨初升的曙光，是梦境与现实交织的奇妙开始。                                                       |
-| 第二章   | [镜中幻影](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/02-第二章%3A镜中幻影(Mirror%20Illusions).md) | 探索镜面世界与现实的交汇点，每一次映照都带来全新角度的思考。                                              |
-| 第三章   | [时空旅人](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/03-第三章%3A时空旅人(Time%20Travelers).md) | 时光的旅途充满神秘，穿越过去与未来，记录心中无尽的感知。                                                 |
+| 第二章   | [镜中幻影](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/02-第二章%3A镜中幻影(Reflections%20of%20Reality).md) | 探索镜面世界与现实的交汇点，每一次映照都带来全新角度的思考。                                              |
+| 第三章   | [时空旅人](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/03-第三章%3A时空旅人(Wanderers%20of%20Time).md) | 时光的旅途充满神秘，穿越过去与未来，记录心中无尽的感知。                                                 |
 | 第四章   | [思维迷途](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/04-第四章%3A思维迷途(Labyrinth%20of%20Thoughts).md) | 思维如同迷宫般蜿蜒，穿越情感与理智的边界，探寻自我存在的本质。                                             |
 | 第五章   | [悖论之境](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/05-第五章%3A悖论之境(Realm%20of%20Paradoxes).md) | 矛盾与悖论交织而成的世界，思索逻辑之外的真理与人生。                                                     |
-| 第六章   | [未尽之章](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/06-第六章%3A未尽之章(Unfinished%20Chapters).md) | 每个未完待续的故事，都承载着期许与未来的可能性。                                                         |
-| 第七章   | [光影余梦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/07-第七章%3A光影余梦(Dreams%20of%20Light%20and%20Shadows).md) | 光与影的交错，如梦中浮现的记忆，悠长而不散，为整本书画上诗意的句点。                                          |
+| 第六章   | [未尽之章](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/06-第六章%3A未尽之章(Unfinished%20Tales).md) | 每个未完待续的故事，都承载着期许与未来的可能性。                                                         |
+| 第七章   | [光影余梦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/07-第七章%3A光影余梦(Echoes%20of%20Light%20and%20Shadows).md) | 光与影的交错，如梦中浮现的记忆，悠长而不散，为整本书画上诗意的句点。                                          |
 
 ---
 
