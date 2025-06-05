@@ -13,13 +13,13 @@
 ## 章节目录
 | **章节** | **名称**                                                                                           | **简介**                                                                 |
 |----------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| 第一章   | [梦启晨曦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/01-第一章%3A梦启晨曦(Dreams%20of%20Dawn).md) | 记录那些初醒的灵感，就像清晨的第一缕阳光，简单却珍贵。。                                                       |
+| 第一章   | [梦启晨曦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/01-第一章%3A梦启晨曦(Dreams%20of%20Dawn).md) | 记录那些初醒的灵感，就像清晨的第一缕阳光，简单却珍贵。                                                       |
 | 第二章   | [镜中幻影](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/02-第二章%3A镜中幻影(Reflections%20of%20Reality).md) | 通过写作，我们像照镜子一样，看见了自己，也看见了别人。                                              |
-| 第三章   | [时空旅人](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/03-第三章%3A时空旅人(Wanderers%20of%20Time).md) | 书写那些回忆和期待，让时间成为连接过去和未来的桥梁。。                                                 |
+| 第三章   | [时空旅人](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/03-第三章%3A时空旅人(Wanderers%20of%20Time).md) | 书写那些回忆和期待，让时间成为连接过去和未来的桥梁。                                                 |
 | 第四章   | [思维迷途](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/04-第四章%3A思维迷途(Labyrinth%20of%20Thoughts).md) | 有时写作就像在迷宫里找出口，每一次记录都是探索自我的一步。                                             |
 | 第五章   | [悖论之境](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/05-第五章%3A悖论之境(Realm%20of%20Paradoxes).md) | 生活里总有些说不清道不明的事，这一章试着把它们写下来。                                                     |
 | 第六章   | [未尽之章](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/06-第六章%3A未尽之章(Unfinished%20Tales).md) | 写到一半的故事，有时候最真实，也最值得期待。                                                         |
-| 第七章   | [光影余梦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/07-第七章%3A光影余梦(Echoes%20of%20Light%20and%20Shadows).md) | 回望写过的文字，就像回望走过的路，光和影都在心里留下了印记。                                          |
+| 第七章   | [光影余梦](https://github.com/LiangFelinae/Infinite-Quests/blob/main/content/07-第七章%3A光影余梦(Echoes%20of%20Light%20and%20Shadows).md) | 光与影的交错，如梦中浮现的记忆，悠长而不散，为整本书画上诗意的句点。                                          |
 
 ---
 
@@ -31,5 +31,5 @@
 ---
 
 ## 感谢
-特别感谢我的遥遥，谢谢她送给我的那本《可写的事》，也谢谢她一直以来的陪伴与支持。也感谢所有翻开这本书的人，愿我们都能在这场旅程里，找到属于自己的灵感与故事。
+特别感谢我的**遥遥**，谢谢她送给我的那本《可写的事》，也谢谢她一直以来的陪伴与支持。也感谢所有翻开这本书的人，愿我们都能在这场旅程里，找到属于自己的灵感与故事。
 
